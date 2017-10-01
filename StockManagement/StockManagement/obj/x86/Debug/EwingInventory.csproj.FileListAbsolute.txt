@@ -1,0 +1,48 @@
+X:\Projects\ITP project\Mark's\StockManagement\StockManagement\bin\Debug\StockManagement.exe
+X:\Projects\ITP project\Mark's\StockManagement\StockManagement\bin\Debug\StockManagement.pdb
+X:\Projects\ITP project\Mark's\StockManagement\StockManagement\bin\Debug\MySql.Data.dll
+X:\Projects\ITP project\Mark's\StockManagement\StockManagement\bin\Debug\MySql.Data.xml
+X:\Projects\ITP project\Mark's\StockManagement\StockManagement\obj\x86\Debug\StockManagement.addLocation.resources
+X:\Projects\ITP project\Mark's\StockManagement\StockManagement\obj\x86\Debug\StockManagement.StockManagement.resources
+X:\Projects\ITP project\Mark's\StockManagement\StockManagement\obj\x86\Debug\StockManagement.Homepage.resources
+X:\Projects\ITP project\Mark's\StockManagement\StockManagement\obj\x86\Debug\StockManagement.Properties.Resources.resources
+X:\Projects\ITP project\Mark's\StockManagement\StockManagement\obj\x86\Debug\EwingInventory.csproj.GenerateResource.Cache
+X:\Projects\ITP project\Mark's\StockManagement\StockManagement\obj\x86\Debug\StockManagement.exe
+X:\Projects\ITP project\Mark's\StockManagement\StockManagement\obj\x86\Debug\StockManagement.pdb
+X:\Projects\ITP project\Mark's\StockManagement\StockManagement\obj\x86\Debug\EwingInventory.csprojResolveAssemblyReference.cache
+C:\Users\Shehan Mark Fdo\Desktop\Mark's\StockManagement\StockManagement\obj\x86\Debug\StockManagement.exe
+C:\Users\Shehan Mark Fdo\Desktop\Mark's\StockManagement\StockManagement\obj\x86\Debug\StockManagement.pdb
+C:\Users\Shehan Mark Fdo\Desktop\Mark's\StockManagement\StockManagement\bin\Debug\StockManagement.exe
+C:\Users\Shehan Mark Fdo\Desktop\Mark's\StockManagement\StockManagement\bin\Debug\StockManagement.pdb
+C:\Users\Shehan Mark Fdo\Desktop\Mark's\StockManagement\StockManagement\bin\Debug\MySql.Data.dll
+C:\Users\Shehan Mark Fdo\Desktop\Mark's\StockManagement\StockManagement\bin\Debug\MySql.Data.xml
+C:\Users\Shehan Mark Fdo\Desktop\Mark's\StockManagement\StockManagement\obj\x86\Debug\EwingInventory.csprojResolveAssemblyReference.cache
+C:\Users\Shehan Mark Fdo\Desktop\Mark's\StockManagement\StockManagement\obj\x86\Debug\StockManagement.addLocation.resources
+C:\Users\Shehan Mark Fdo\Desktop\Mark's\StockManagement\StockManagement\obj\x86\Debug\StockManagement.StockManagement.resources
+C:\Users\Shehan Mark Fdo\Desktop\Mark's\StockManagement\StockManagement\obj\x86\Debug\StockManagement.Homepage.resources
+C:\Users\Shehan Mark Fdo\Desktop\Mark's\StockManagement\StockManagement\obj\x86\Debug\StockManagement.Properties.Resources.resources
+C:\Users\Shehan Mark Fdo\Desktop\Mark's\StockManagement\StockManagement\obj\x86\Debug\EwingInventory.csproj.GenerateResource.Cache
+C:\Users\Shehan Mark Fdo\Desktop\Mark's\StockManagement\StockManagement\bin\Debug\StockManagement.exe.config
+C:\Users\Shehan Mark Fdo\Desktop\Mark's\StockManagement\StockManagement\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Shehan Mark Fdo\Desktop\Mark's\StockManagement\StockManagement\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Shehan Mark Fdo\Desktop\Mark's\StockManagement\StockManagement\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Shehan Mark Fdo\Desktop\Mark's\StockManagement\StockManagement\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Shehan Mark Fdo\Desktop\Mark's\StockManagement\StockManagement\bin\Debug\FlashControlV71.dll
+C:\Users\Shehan Mark Fdo\Desktop\Mark's\StockManagement\StockManagement\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Shehan Mark Fdo\Desktop\Mark's\StockManagement\StockManagement\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Shehan Mark Fdo\Desktop\Mark's\StockManagement\StockManagement\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Shehan Mark Fdo\Desktop\Mark's\StockManagement\StockManagement\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Shehan Mark Fdo\Desktop\Mark's\StockManagement\StockManagement\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Shehan Mark Fdo\Desktop\Mark's\StockManagement\StockManagement\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Shehan Mark Fdo\Desktop\Mark's\StockManagement\StockManagement\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Shehan Mark Fdo\Desktop\Mark's\StockManagement\StockManagement\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Shehan Mark Fdo\Desktop\Mark's\StockManagement\StockManagement\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Shehan Mark Fdo\Desktop\Mark's\StockManagement\StockManagement\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Shehan Mark Fdo\Desktop\Mark's\StockManagement\StockManagement\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Shehan Mark Fdo\Desktop\Mark's\StockManagement\StockManagement\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Shehan Mark Fdo\Desktop\Mark's\StockManagement\StockManagement\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Shehan Mark Fdo\Desktop\Mark's\StockManagement\StockManagement\bin\Debug\stdole.dll
+C:\Users\Shehan Mark Fdo\Desktop\Mark's\StockManagement\StockManagement\obj\x86\Debug\StockManagement.saCRpt.resources
+C:\Users\Shehan Mark Fdo\Desktop\New folder\Mark's\StockManagement\StockManagement\bin\Debug\StockManagement.exe.config
+C:\Users\Shehan Mark Fdo\Desktop\New folder\Mark's\StockManagement\StockManagement\obj\x86\Debug\StockManagement.exe
+C:\Users\Shehan Mark Fdo\Desktop\New folder\Mark's\StockManagement\StockManagement\obj\x86\Debug\StockManagement.pdb

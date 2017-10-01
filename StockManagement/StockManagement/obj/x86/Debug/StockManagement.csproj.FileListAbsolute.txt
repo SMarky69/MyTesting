@@ -1,0 +1,39 @@
+c:\users\trickstar\documents\visual studio 2010\Projects\StockManagement\StockManagement\bin\Debug\StockManagement.exe
+c:\users\trickstar\documents\visual studio 2010\Projects\StockManagement\StockManagement\bin\Debug\StockManagement.pdb
+c:\users\trickstar\documents\visual studio 2010\Projects\StockManagement\StockManagement\obj\x86\Debug\StockManagement.csprojResolveAssemblyReference.cache
+c:\users\trickstar\documents\visual studio 2010\Projects\StockManagement\StockManagement\obj\x86\Debug\StockManagement.Form1.resources
+c:\users\trickstar\documents\visual studio 2010\Projects\StockManagement\StockManagement\obj\x86\Debug\StockManagement.Properties.Resources.resources
+c:\users\trickstar\documents\visual studio 2010\Projects\StockManagement\StockManagement\obj\x86\Debug\StockManagement.csproj.GenerateResource.Cache
+c:\users\trickstar\documents\visual studio 2010\Projects\StockManagement\StockManagement\obj\x86\Debug\StockManagement.exe
+c:\users\trickstar\documents\visual studio 2010\Projects\StockManagement\StockManagement\obj\x86\Debug\StockManagement.pdb
+c:\users\trickstar\documents\visual studio 2010\Projects\StockManagement\StockManagement\obj\x86\Debug\StockManagement.Form2.resources
+c:\users\trickstar\documents\visual studio 2010\Projects\StockManagement\StockManagement\obj\x86\Debug\StockManagement.ViewStockAdjustment.resources
+C:\Users\Trickstar\documents\visual studio 2010\Projects\StockManagement\StockManagement\obj\x86\Debug\StockManagement.Homepage.resources
+F:\ITP Project\StockManagement\StockManagement\obj\x86\Debug\StockManagement.exe
+F:\ITP Project\StockManagement\StockManagement\obj\x86\Debug\StockManagement.pdb
+C:\Users\Shehan Mark Fdo\Desktop\ITP Project\StockManagement\StockManagement\obj\x86\Debug\StockManagement.exe
+C:\Users\Shehan Mark Fdo\Desktop\ITP Project\StockManagement\StockManagement\obj\x86\Debug\StockManagement.pdb
+C:\Users\Shehan Mark Fdo\Desktop\ITP Project\StockManagement\StockManagement\obj\x86\Debug\StockManagement.Form1.resources
+C:\Users\Shehan Mark Fdo\Desktop\ITP Project\StockManagement\StockManagement\obj\x86\Debug\StockManagement.Form2.resources
+C:\Users\Shehan Mark Fdo\Desktop\ITP Project\StockManagement\StockManagement\obj\x86\Debug\StockManagement.Homepage.resources
+C:\Users\Shehan Mark Fdo\Desktop\ITP Project\StockManagement\StockManagement\obj\x86\Debug\StockManagement.Properties.Resources.resources
+C:\Users\Shehan Mark Fdo\Desktop\ITP Project\StockManagement\StockManagement\obj\x86\Debug\StockManagement.ViewStockAdjustment.resources
+C:\Users\Shehan Mark Fdo\Desktop\ITP Project\StockManagement\StockManagement\obj\x86\Debug\StockManagement.csproj.GenerateResource.Cache
+C:\Users\Shehan Mark Fdo\Desktop\ITP Project\StockManagement\StockManagement\bin\Debug\StockManagement.exe
+C:\Users\Shehan Mark Fdo\Desktop\ITP Project\StockManagement\StockManagement\bin\Debug\StockManagement.pdb
+C:\Users\Shehan Mark Fdo\Desktop\ITP Project\StockManagement\StockManagement\bin\Debug\MySql.Data.dll
+C:\Users\Shehan Mark Fdo\Desktop\ITP Project\StockManagement\StockManagement\bin\Debug\MySql.Data.xml
+C:\Users\Shehan Mark Fdo\Desktop\ITP Project\Mark's\StockManagement\StockManagement\obj\x86\Debug\StockManagement.exe
+C:\Users\Shehan Mark Fdo\Desktop\ITP Project\Mark's\StockManagement\StockManagement\obj\x86\Debug\StockManagement.pdb
+X:\Projects\ITP project\Mark's\StockManagement\StockManagement\obj\x86\Debug\StockManagement.exe
+X:\Projects\ITP project\Mark's\StockManagement\StockManagement\obj\x86\Debug\StockManagement.pdb
+X:\Projects\ITP project\Mark's\StockManagement\StockManagement\obj\x86\Debug\StockManagement.csprojResolveAssemblyReference.cache
+X:\Projects\ITP project\Mark's\StockManagement\StockManagement\obj\x86\Debug\StockManagement.addLocation.resources
+X:\Projects\ITP project\Mark's\StockManagement\StockManagement\obj\x86\Debug\StockManagement.Homepage.resources
+X:\Projects\ITP project\Mark's\StockManagement\StockManagement\obj\x86\Debug\StockManagement.Properties.Resources.resources
+X:\Projects\ITP project\Mark's\StockManagement\StockManagement\obj\x86\Debug\StockManagement.csproj.GenerateResource.Cache
+X:\Projects\ITP project\Mark's\StockManagement\StockManagement\bin\Debug\StockManagement.exe
+X:\Projects\ITP project\Mark's\StockManagement\StockManagement\bin\Debug\StockManagement.pdb
+X:\Projects\ITP project\Mark's\StockManagement\StockManagement\bin\Debug\MySql.Data.dll
+X:\Projects\ITP project\Mark's\StockManagement\StockManagement\bin\Debug\MySql.Data.xml
+X:\Projects\ITP project\Mark's\StockManagement\StockManagement\obj\x86\Debug\StockManagement.StockManagement.resources
